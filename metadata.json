@@ -1,0 +1,7 @@
+{
+  "name": "Coppel 4ever: Tu Smartphone Ideal",
+  "description": "Asesor especialista de smartphones y cotizador de crédito Coppel con abonos quincenales a 24 y 36 plazos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

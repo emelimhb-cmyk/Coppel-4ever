@@ -1,0 +1,4 @@
+/api/recommend /.netlify/functions/recommend 200
+/api/simulate-credit /.netlify/functions/simulate-credit 200
+/api/catalog /.netlify/functions/catalog 200
+/* /index.html 200
